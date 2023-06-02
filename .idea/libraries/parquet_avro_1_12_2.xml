@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="parquet-avro-1.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/parquet-avro-1.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
